@@ -1,0 +1,63 @@
+{
+	"_id":"tt0944947",
+	"imdb_id":"tt0944947",
+	"tvdb_id":"121361",
+	"title":"Game of Thrones",
+	"year":"2011",
+	"images":{
+		"banner":"https://walter.trakt.us/images/shows/000/001/390/fanarts/original/39f9936d62.jpg",
+		"fanart":"https://walter.trakt.us/images/shows/000/001/390/fanarts/original/39f9936d62.jpg",
+		"poster":"https://walter.trakt.us/images/shows/000/001/390/posters/original/e2e8d04f11.jpg"
+	},
+	"slug":"game-of-thrones",
+	"synopsis":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and the icy horrors beyond.",
+	"runtime":"60",
+	"rating": {
+		"hated":"0",
+		"loved":"0",
+		"votes":39587,
+		"percentage":94,
+		"watching":16
+	},
+	"country":"us",
+	"network":"HBO",
+	"status":"returning series",
+	"num_seasons":8,
+	"last_updated":1439337665416,
+	"__v":0,
+	"episodes":[{
+		"torrents":{
+			"0":{
+				"peers":0,
+				"seeds":4572,
+				"url":"magnet:?xt=urn:btih:9FB267CFF5AE5603F07A347676EC3BF3E35F75E1&dn=game+of+thrones+s05e02+hdtv+x264+xclusive+eztv+&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+			},
+			"1080p":{
+				"peers":0,
+				"seeds":0,
+				"url":"magnet:?xt=urn:btih:5B25E3F622D435465DEC53EDDD525A0AF0F484B8&dn=Game+of+Thrones+S05E02+1080p+HDTV+x264-SNEAkY&tr=udp://open.demonii.com:1337&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://exodus.desync.com:6969"
+			},
+			"720p":{
+				"peers":0,
+				"seeds":1436,
+				"url":"magnet:?xt=urn:btih:DA36686169A9696D875FB413F8B034C06C48AB1B&dn=game+of+thrones+s05e02+720p+hdtv+x264+immerse&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+			},
+			"480p":{
+				"peers":0,
+				"seeds":4572,
+				"url":"magnet:?xt=urn:btih:9FB267CFF5AE5603F07A347676EC3BF3E35F75E1&dn=game+of+thrones+s05e02+hdtv+x264+xclusive+eztv+&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+			}
+		},
+		"watched":{
+			"watched":false
+		},
+		"first_aired":1429491600,
+		"date_based":false,
+		"overview":"Arya arrives in Braavos; Podrick and Brienne run into trouble on the road; Cersei fears for her daughter's safety in Dorne as Ellaria Sand seeks revenge for Oberyn's death. Stannis tempts Jon; an adviser tempts Daenerys.",
+		"title":"The House of Black and White",
+		"episode":2,
+		"season":5,
+		"tvdb_id":5150174
+	}],
+	"genres":["Drama","Fantasy","Science-fiction"]
+}
